@@ -6,3 +6,7 @@ Cài đặt project
 2. Chạy hết toàn bộ các file sql server 
 3. Kết nối sql với visual studio lại với nhau và các bạn chỉ cần đổi connectionString theo máy các bạn là chạy được nhé
 4. Tài khoản và mật khẩu thì các bạn xem ở table "NhanVien" nhoe! (chú ý quyền "quản lý" và "nhân viên" đăng nhập tài khoản cho phù hợp nhé)
+
+Mong project này có thể giúp các bạn nhiều hơn 
+
+CẢM ƠN CÁC BẠN ĐÃ GHÉ QUA!!
