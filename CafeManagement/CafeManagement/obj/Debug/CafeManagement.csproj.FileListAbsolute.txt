@@ -1,0 +1,267 @@
+D:\ChinhSuaMon\ChinhSuaMon\bin\Debug\ChinhSuaMon.exe.config
+D:\ChinhSuaMon\ChinhSuaMon\bin\Debug\ChinhSuaMon.exe
+D:\ChinhSuaMon\ChinhSuaMon\bin\Debug\ChinhSuaMon.pdb
+D:\ChinhSuaMon\ChinhSuaMon\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.DangKyKhachHangThanThiet.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.QuanLyHoaDon.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.QuanLyMon.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.DangNhap.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.ChucNangQuanLy.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.QuanLyDanhMuc.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.QuanLyKhachHang.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.QuanLyNhanVien.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.SaleOrder.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.ThongKe.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.TrangChu.resources
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.exe
+D:\ChinhSuaMon\ChinhSuaMon\obj\Debug\ChinhSuaMon.pdb
+D:\ChinhSuaMon\CafeManagement\bin\Debug\ChinhSuaMon.exe.config
+D:\ChinhSuaMon\CafeManagement\bin\Debug\ChinhSuaMon.exe
+D:\ChinhSuaMon\CafeManagement\bin\Debug\ChinhSuaMon.pdb
+D:\ChinhSuaMon\CafeManagement\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.DangKyKhachHangThanThiet.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.QuanLyHoaDon.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.QuanLyMon.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.DangNhap.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.ChucNangQuanLy.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.QuanLyDanhMuc.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.QuanLyKhachHang.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.QuanLyNhanVien.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.SaleOrder.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.ThongKe.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.TrangChu.resources
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\ChinhSuaMon\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\ChinhSuaMon\CafeManagement\obj\Debug\ChinhSuaMon.exe
+D:\ChinhSuaMon\CafeManagement\obj\Debug\ChinhSuaMon.pdb
+D:\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe.config
+D:\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe
+D:\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.pdb
+D:\CafeManagement\CafeManagement\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangKyKhachHangThanThiet.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyHoaDon.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyMon.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangNhap.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChucNangQuanLy.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyDanhMuc.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyKhachHang.resources
+D:\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyNhanVien.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.SaleOrder.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ThongKe.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.TrangChu.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.exe
+D:\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.pdb
+D:\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.dll
+D:\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.xml
+D:\CafeManagement\CafeManagement\bin\Debug\BUS.dll
+D:\CafeManagement\CafeManagement\bin\Debug\Database.dll
+D:\CafeManagement\CafeManagement\bin\Debug\BUS.pdb
+D:\CafeManagement\CafeManagement\bin\Debug\Database.pdb
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChiTietHoaDon.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.XuatHoaDon.resources
+D:\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Luong.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe.config
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.pdb
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\BUS.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\Database.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\BUS.pdb
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\Database.pdb
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.xml
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChiTietHoaDon.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChucNangQuanLy.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangKyKhachHangThanThiet.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Luong.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyDanhMuc.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyHoaDon.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangNhap.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyKhachHang.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyMon.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyNhanVien.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.SaleOrder.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ThongKe.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.TrangChu.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.XuatHoaDon.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.exe
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.pdb
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\Microsoft.mshtml.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.xml
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.xml
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.FormThongTinNV.resources
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.ChangePassword.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe.config
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.pdb
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\Database.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\Database.pdb
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.xml
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.xml
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.ChangePassword.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChiTietHoaDon.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChucNangQuanLy.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangKyKhachHangThanThiet.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.FormThongTinNV.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Luong.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyDanhMuc.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyHoaDon.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangNhap.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyKhachHang.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyMon.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyNhanVien.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.SaleOrder.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ThongKe.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.TrangChu.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.XuatHoaDon.resources
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.exe
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.pdb
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.exe
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.pdb
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe.config
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.pdb
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\BUS.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Database.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Microsoft.mshtml.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\BUS.pdb
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Database.pdb
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.xml
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.xml
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.xml
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChiTietHoaDon.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChucNangQuanLy.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangKyKhachHangThanThiet.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Luong.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyDanhMuc.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyHoaDon.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.DangNhap.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyKhachHang.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyMon.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.QuanLyNhanVien.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.SaleOrder.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ThongKe.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.TrangChu.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.XuatHoaDon.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.ChangePassword.resources
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FormThongTinNV.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe.config
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.pdb
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\BUS.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Database.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Microsoft.mshtml.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\BUS.pdb
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Database.pdb
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.xml
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.xml
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.xml
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.exe
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.pdb
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FChangePassword.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FChiTietHoaDon.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FChucNangQuanLy.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FDangKyKhachHangThanThiet.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FThongTinNV.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FLuong.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyDanhMuc.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyHoaDon.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FDangNhap.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyKhachHang.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyMon.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyNhanVien.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FOrder.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FThongKe.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FTrangChu.resources
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FXuatHoaDon.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe.config
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.exe
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\ChinhSuaMon.pdb
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\BUS.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\Database.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\Microsoft.mshtml.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\BUS.pdb
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\Database.pdb
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\Spire.Pdf.xml
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\Spire.XLS.xml
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\bin\Debug\System.Data.SqlClient.xml
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FChangePassword.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FChiTietHoaDon.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FChucNangQuanLy.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FDangKyKhachHangThanThiet.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FThongTinNV.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FLuong.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyDanhMuc.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyHoaDon.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FDangNhap.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.Properties.Resources.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyKhachHang.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyMon.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FQuanLyNhanVien.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FOrder.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FThongKe.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FTrangChu.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.FXuatHoaDon.resources
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.exe
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\CafeManagement\obj\Debug\ChinhSuaMon.pdb

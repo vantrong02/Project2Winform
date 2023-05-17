@@ -1,0 +1,79 @@
+D:\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CafeManagement\Database_Layer\bin\Debug\Database.dll
+D:\CafeManagement\Database_Layer\bin\Debug\Database.pdb
+D:\CafeManagement\Database_Layer\obj\Debug\Database.dll
+D:\CafeManagement\Database_Layer\obj\Debug\Database.pdb
+D:\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.dll
+D:\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.xml
+D:\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CopyComplete
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\Database.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\Database.pdb
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.xml
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CopyComplete
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\obj\Debug\Database.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\obj\Debug\Database.pdb
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\Microsoft.mshtml.dll
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.xml
+D:\Môn học\HKI_nam3\CNPM\new\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.xml
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\Database.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\Database.pdb
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.xml
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.xml
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\obj\Debug\Database.dll
+C:\Users\Admin\Downloads\CNPM_CafeManagement\CafeManagement\Database_Layer\obj\Debug\Database.pdb
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Database.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Database.pdb
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Microsoft.mshtml.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.xml
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.xml
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.xml
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CopyComplete
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\Database.dll
+D:\CONG NGHE PHAN MEM\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\Database.pdb
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Database.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Database.pdb
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Microsoft.mshtml.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.xml
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.xml
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.xml
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CopyComplete
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\Database.dll
+D:\Nhom8_Project_Cuoi_Ky\CafeManagement\Database_Layer\obj\Debug\Database.pdb
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\Database.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\Database.pdb
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\Microsoft.mshtml.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\Spire.Pdf.xml
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\Spire.XLS.xml
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\bin\Debug\System.Data.SqlClient.xml
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\obj\Debug\DAL.csproj.CopyComplete
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\obj\Debug\Database.dll
+D:\ProjectLapTrinhWin_TranVanTrong_20133103\CafeManagement\Database_Layer\obj\Debug\Database.pdb
